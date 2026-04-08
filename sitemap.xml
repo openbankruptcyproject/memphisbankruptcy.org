@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://memphisbankruptcy.org/</loc><changefreq>weekly</changefreq><priority>1.0</priority></url>
-  <url><loc>https://memphisbankruptcy.org/chapter-7.html</loc><changefreq>monthly</changefreq><priority>0.9</priority></url>
-  <url><loc>https://memphisbankruptcy.org/chapter-13.html</loc><changefreq>monthly</changefreq><priority>0.9</priority></url>
-  <url><loc>https://memphisbankruptcy.org/exemptions.html</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://memphisbankruptcy.org/cost.html</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://memphisbankruptcy.org/what-to-expect.html</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://memphisbankruptcy.org/faq.html</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://memphisbankruptcy.org/statistics.html</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://memphisbankruptcy.org/resources.html</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://memphisbankruptcy.org/</loc><lastmod>2026-04-07</lastmod><changefreq>weekly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://memphisbankruptcy.org/chapter-7.html</loc><lastmod>2026-04-07</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://memphisbankruptcy.org/chapter-13.html</loc><lastmod>2026-04-07</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://memphisbankruptcy.org/exemptions.html</loc><lastmod>2026-04-07</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://memphisbankruptcy.org/cost.html</loc><lastmod>2026-04-07</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://memphisbankruptcy.org/what-to-expect.html</loc><lastmod>2026-04-07</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://memphisbankruptcy.org/faq.html</loc><lastmod>2026-04-07</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://memphisbankruptcy.org/statistics.html</loc><lastmod>2026-04-07</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://memphisbankruptcy.org/resources.html</loc><lastmod>2026-04-07</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
 </urlset>
