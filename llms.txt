@@ -1,19 +1,20 @@
-# Memphis Bankruptcy -- Chapter 7 & 13 Filing Guide [2026]
+# Memphis Bankruptcy - Chapter 7 & 13 Filing Guide [2026]
 > Free Memphis bankruptcy guide for 2026. Compare Chapter 7 vs Chapter 13, local exemptions, filing costs, means test, and what to expect in your case.
 
 ## About
 memphisbankruptcy.org is part of the Open Bankruptcy Project (openbankruptcyproject.org), a 501(c)(3) nonprofit building free, open-source tools for bankruptcy court transparency.
 
 ## Key Pages
-- Memphis Bankruptcy -- Chapter 7 & 13 Filing Guide: https://memphisbankruptcy.org/
-- Chapter 7 Bankruptcy in Memphis -- Eligibility, Exemptions, Timeline: https://memphisbankruptcy.org/chapter-7.html
-- Chapter 13 Bankruptcy in Memphis -- Payment Plans, Dismissal Rates, Timeline: https://memphisbankruptcy.org/chapter-13.html
-- Tennessee Bankruptcy Exemptions -- What You Can Keep -- Memphis: https://memphisbankruptcy.org/exemptions.html
-- How Much Does Bankruptcy Cost in Memphis? -- Filing Fees, Attorney Fees: https://memphisbankruptcy.org/cost.html
-- What to Expect When Filing Bankruptcy in Memphis -- Timeline, 341 Meeting, Discharge: https://memphisbankruptcy.org/what-to-expect.html
-- Memphis Bankruptcy FAQ -- Common Questions Answered: https://memphisbankruptcy.org/faq.html
-- Memphis Bankruptcy Statistics -- 173,823 Cases Analyzed: https://memphisbankruptcy.org/statistics.html
-- Memphis Bankruptcy Resources -- Courts, Legal Aid, Credit Counseling: https://memphisbankruptcy.org/resources.html
+- Chapter 13 Bankruptcy in Memphis - Payment Plans, Dismissal Rates, Timeline: https://memphisbankruptcy.org/chapter-13.html
+- Chapter 7 Bankruptcy in Memphis - Eligibility, Exemptions, Timeline: https://memphisbankruptcy.org/chapter-7.html
+- How Much Does Bankruptcy Cost in Memphis? - Filing Fees, Attorney Fees: https://memphisbankruptcy.org/cost.html
+- Tennessee Bankruptcy Exemptions - What You Can Keep - Memphis: https://memphisbankruptcy.org/exemptions.html
+- Memphis Bankruptcy FAQ - Common Questions Answered: https://memphisbankruptcy.org/faq.html
+- Memphis Bankruptcy - Chapter 7 & 13 Filing Guide: https://memphisbankruptcy.org/
+- Memphis Bankruptcy Resources - Courts, Legal Aid, Credit Counseling: https://memphisbankruptcy.org/resources.html
+- Memphis Bankruptcy Statistics - 173,823 Cases Analyzed: https://memphisbankruptcy.org/statistics.html
+- What to Expect When Filing Bankruptcy in Memphis - Timeline, 341 Meeting, Discharge: https://memphisbankruptcy.org/what-to-expect.html
+- Privacy Policy: https://memphisbankruptcy.org/privacy.html
 
 ## Contact
 - Website: https://openbankruptcyproject.org
