@@ -4,20 +4,20 @@
 <head>
 <meta charset="utf-8"/>
 <meta content="width=device-width, initial-scale=1.0" name="viewport"/>
-<title>What to Expect When Filing Bankruptcy in Memphis - Timeline, 341 Meeting, Discharge</title>
-<meta content="Step-by-step guide to the bankruptcy process in Memphis. Timeline from filing to discharge, 341 meeting, automatic stay, and how discharge works." name="description"/>
+<title>Tennessee Bankruptcy Exemptions - What You Can Keep - Memphis</title>
+<meta content="Complete guide to Tennessee bankruptcy exemptions. Homestead ($5,000/$7,500), vehicle ($10,000), personal property, and retirement accounts." name="description"/>
 <link href="favicon.svg" rel="icon" type="image/svg+xml"/>
-<link href="https://memphisbankruptcy.org/what-to-expect.html" rel="canonical"/>
+<link href="https://memphisbankruptcy.org/exemptions.html" rel="canonical"/>
 <!-- BTN:GA4:START -->
 <link href="https://www.googletagmanager.com" rel="preconnect"/>
 <script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}gtag('js',new Date());
   gtag('set', 'allow_ad_personalization_signals', false);gtag('config','G-053Z64N82F');gtag('config','G-FTWLM223G7');</script>
 <!-- BTN:GA4:END -->
 <script type="application/ld+json">
-{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"What happens at the 341 meeting of creditors?","acceptedAnswer":{"@type":"Answer","text":"The 341 meeting is a brief hearing where the trustee asks you questions under oath about your finances. Bring photo ID and Social Security proof. Most meetings last 5-10 minutes."}},{"@type":"Question","name":"What is the automatic stay?","acceptedAnswer":{"@type":"Answer","text":"The automatic stay takes effect the moment your petition is filed. It stops collection calls, lawsuits, garnishments, foreclosures, and repossessions."}},{"@type":"Question","name":"How long until I get my discharge?","acceptedAnswer":{"@type":"Answer","text":"Chapter 7: about 3-4 months after filing. Chapter 13: after completing your 3-5 year plan."}},{"@type":"Question","name":"Will bankruptcy affect my credit score?","acceptedAnswer":{"@type":"Answer","text":"Chapter 7 stays on your credit report for 10 years; Chapter 13 for 7 years. Many filers see scores start recovering within 1-2 years."}}]}
+{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"What is the Tennessee homestead exemption?","acceptedAnswer":{"@type":"Answer","text":"Tennessee's homestead exemption protects $5,000 (individual) / $7,500 (family) of equity in your primary residence."}},{"@type":"Question","name":"How much vehicle equity can I protect in Tennessee?","acceptedAnswer":{"@type":"Answer","text":"Tennessee's vehicle exemption is $10,000 (increased 2024)."}},{"@type":"Question","name":"What personal property is exempt in Tennessee?","acceptedAnswer":{"@type":"Answer","text":"Tennessee protects personal property up to $10,000."}},{"@type":"Question","name":"Are retirement accounts protected in Tennessee bankruptcy?","acceptedAnswer":{"@type":"Answer","text":"Yes. ERISA-qualified retirement accounts (401k, pension) are generally fully exempt. Traditional and Roth IRAs are protected up to federal limits."}}]}
 </script>
 <script type="application/ld+json">
-{"@context":"https://schema.org","@graph":[{"@type":"Article","headline":"What to Expect When Filing Bankruptcy in Memphis","description":"Step-by-step guide to the bankruptcy process in Memphis.","author":{"@type":"Organization","name":"Open Bankruptcy Project"},"publisher":{"@type":"Organization","name":"Open Bankruptcy Project","url":"https://1328f.org"},"datePublished":"2026-04-05","dateModified":"2026-04-05","mainEntityOfPage":"https://memphisbankruptcy.org/what-to-expect.html"},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://memphisbankruptcy.org"},{"@type":"ListItem","position":2,"name":"What To Expect","item":"https://memphisbankruptcy.org/what-to-expect.html"}]},{"@type":"WebPage","name":"What to Expect When Filing Bankruptcy in Memphis","url":"https://memphisbankruptcy.org/what-to-expect.html","speakable":{"@type":"SpeakableSpecification","cssSelector":[".quick-answer","h1",".summary","p:first-of-type"]}}]}
+{"@context":"https://schema.org","@graph":[{"@type":"Article","headline":"Tennessee Bankruptcy Exemptions - What You Can Keep","description":"Complete guide to Tennessee bankruptcy exemptions for Memphis filers.","author":{"@type":"Organization","name":"Open Bankruptcy Project"},"publisher":{"@type":"Organization","name":"Open Bankruptcy Project","url":"https://1328f.org"},"datePublished":"2026-04-05","dateModified":"2026-04-05","mainEntityOfPage":"https://memphisbankruptcy.org/exemptions.html"},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://memphisbankruptcy.org"},{"@type":"ListItem","position":2,"name":"Exemptions","item":"https://memphisbankruptcy.org/exemptions.html"}]},{"@type":"WebPage","name":"Tennessee Bankruptcy Exemptions - What You Can Keep","url":"https://memphisbankruptcy.org/exemptions.html","speakable":{"@type":"SpeakableSpecification","cssSelector":[".quick-answer","h1",".summary","p:first-of-type"]}}]}
 </script>
 <style>
 *{margin:0;padding:0;box-sizing:border-box}
@@ -78,8 +78,8 @@ td{color:#c9d1d9}
 
 .breadcrumb-nav{font-size:0.85rem;color:#8b949e;padding:0.5rem 0;max-width:900px;margin:0 auto}.breadcrumb-nav a{color:#58a6ff;text-decoration:none}.breadcrumb-nav a:hover{text-decoration:underline}.breadcrumb-nav .separator{margin:0 0.5rem;color:#484f58}
 </style>
-<link href="https://memphisbankruptcy.org/what-to-expect.html" hreflang="en" rel="alternate"/>
-<link href="https://memphisbankruptcy.org/what-to-expect-es.html" hreflang="es" rel="alternate"/>
+<link href="https://memphisbankruptcy.org/exemptions.html" hreflang="en" rel="alternate"/>
+<link href="https://memphisbankruptcy.org/exemptions-es.html" hreflang="es" rel="alternate"/>
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -102,133 +102,57 @@ td{color:#c9d1d9}
 </script>
 <meta content="https://memphisbankruptcy.org/og-image.svg" property="og:image"/>
 <meta content="https://memphisbankruptcy.org/og-image.svg" name="twitter:image"/>
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "NonprofitOrganization",
-  "name": "Open Bankruptcy Project",
-  "alternateName": "OBP",
-  "url": "https://openbankruptcyproject.org",
-  "email": "info@openbankruptcyproject.org",
-  "taxID": "41-5159631",
-  "nonprofitStatus": "Nonprofit501c3",
-  "description": "The Open Bankruptcy Project is a 501(c)(3) nonprofit providing free tools, research, and consumer guides to help people navigate the federal bankruptcy system. We also conduct and publish empirical research on how the system actually works for consumers and share findings with rule-making bodies, regulators, and the public.",
-  "address": {
-    "@type": "PostalAddress",
-    "streetAddress": "1000 W 100th St",
-    "addressLocality": "Kansas City",
-    "addressRegion": "MO",
-    "postalCode": "64114",
-    "addressCountry": "US"
-  }
-}
-</script>
 </head>
 <body>
 <nav><div class="container"><a class="brand" href="/">Memphis Bankruptcy Guide</a><div class="links"><a href="/">Home</a><a href="chapter-7.html">Chapter 7</a><a href="chapter-13.html">Chapter 13</a><a href="exemptions.html">Exemptions</a><a href="cost.html">Cost</a><a href="faq.html">FAQ</a><a href="https://openbankruptcyproject.org">OBP</a></div></div></nav>
-<nav aria-label="Breadcrumb" class="breadcrumb-nav"><a href="https://memphisbankruptcy.org">Home</a><span class="separator">›</span><span>What To Expect</span></nav>
+<nav aria-label="Breadcrumb" class="breadcrumb-nav"><a href="https://memphisbankruptcy.org">Home</a><span class="separator">›</span><span>Exemptions</span></nav>
 <div class="hero"><div class="container">
-<h1>What to Expect When Filing Bankruptcy</h1>
-<p class="subtitle">The bankruptcy process can feel overwhelming, but it follows a clear, predictable path. Here is exactly what happens from start to finish in Memphis.</p>
+<h1>Tennessee Bankruptcy Exemptions</h1>
+<p class="subtitle"><a href="https://bankruptcyexemptionsbystate.com/" title="exemptions">Exemptions</a> determine what property you get to keep when you file bankruptcy. Understanding them is critical - they can mean the difference between keeping and losing your home, car, and savings.</p>
 </div></div>
 <section><div class="container">
-<h2>Chapter 7 Timeline</h2>
-<div class="timeline">
-<div class="timeline-item">
-<div class="time">1-4 weeks before filing</div>
-<h3>Preparation</h3>
-<p>Complete a <a href="https://bankruptcyfreshstart.org" title="Credit Counseling">credit counseling course</a> ($15-25). Gather documents: tax returns, pay stubs, bank statements, and a list of all debts and assets.</p>
-</div>
-<div class="timeline-item">
-<div class="time">Day 1</div>
-<h3>Filing Day</h3>
-<p>Your petition is filed with the Western District of Tennessee. The <a href="https://automaticstay.org" title="Automatic Stay">automatic stay</a> takes effect immediately. All collection activity must stop.</p>
-</div>
-<div class="timeline-item">
-<div class="time">Day 21-40</div>
-<h3>341 Meeting of Creditors</h3>
-<p>Brief <a href="https://341meeting.org" title="341 Meeting Guide">meeting of creditors</a> at the courthouse (200 Jefferson Ave, Suite 413, Memphis, TN 38103). The trustee verifies your identity and asks questions. Most last 5-10 minutes.</p>
-</div>
-<div class="timeline-item">
-<div class="time">Day 21-60</div>
-<h3>Debtor Education Course</h3>
-<p>Complete a second financial education course ($10-25). File the certificate with the court.</p>
-</div>
-<div class="timeline-item">
-<div class="time">Day 60-90 (after 341)</div>
-<h3>Discharge</h3>
-<p>The court enters your <a href="https://bankruptcydischarge.org/" title="discharge">discharge</a> order. Eligible debts are eliminated. Total time: typically 3-4 months.</p>
-</div>
-</div>
-</div></section>
-<section><div class="container">
-<h2>Chapter 13 Timeline</h2>
-<div class="timeline">
-<div class="timeline-item">
-<div class="time">Before filing</div>
-<h3>Preparation</h3>
-<p>Complete <a href="https://bankruptcyfreshstart.org/" title="credit counseling">credit counseling</a>. Work with your attorney to develop a feasible <a href="https://chapter13plan.org" rel="noopener" target="_blank" title="Chapter 13 Repayment Plan - Open Bankruptcy Project">repayment plan</a>.</p>
-</div>
-<div class="timeline-item">
-<div class="time">Day 1</div>
-<h3>Filing Day</h3>
-<p>Petition and proposed plan filed. <a href="https://automaticstay.org" rel="noopener" target="_blank" title="Automatic Stay in Bankruptcy - Open Bankruptcy Project">Automatic stay</a> takes effect. Foreclosures and repossessions stop.</p>
-</div>
-<div class="timeline-item">
-<div class="time">Day 30</div>
-<h3>First Plan Payment</h3>
-<p>First monthly payment due to the trustee, even if your plan has not been confirmed yet.</p>
-</div>
-<div class="timeline-item">
-<div class="time">Day 45-120</div>
-<h3>Confirmation Hearing</h3>
-<p>The court decides whether to approve your plan.</p>
-</div>
-<div class="timeline-item">
-<div class="time">Years 1-5</div>
-<h3>Plan Payments</h3>
-<p>Make monthly payments. Report income changes. File tax returns on time.</p>
-</div>
-<div class="timeline-item" style="margin-bottom:0">
-<div class="time">After plan completion</div>
-<h3>Discharge</h3>
-<p>Complete debtor education. Court enters a <a href="https://section1328.org" title="Section 1328 Discharge">section 1328 discharge</a>.</p>
-</div>
-</div>
-<div style="background:#1c1f26;border:1px solid #d29922;border-radius:8px;padding:16px 20px;margin:20px 0;color:#d29922;font-size:14px">
-<strong>Important:</strong> In the Western District of Tennessee, 79.6% of <a href="https://chapter7vs13.org/" title="Chapter 13">Chapter 13</a> cases are dismissed before plan completion. A <a href="https://bankruptcydismissed.com" style="color:#58a6ff" title="Bankruptcy Dismissed">dismissed case</a> means no <a href="https://bankruptcydischarge.org/" title="discharge">discharge</a>. Strong representation is critical.
-</div>
-</div></section>
-<section><div class="container">
-<h2>The Automatic Stay - Your Immediate Protection</h2>
+<h2>What Are Exemptions?</h2>
 <div class="card">
-<p>The <a href="https://automaticstay.org" title="Automatic Stay">automatic stay</a> is one of the most powerful protections in bankruptcy law. The moment your petition is filed, creditors must immediately stop:</p>
-<ul>
-<li>Phone calls, letters, and emails demanding payment</li>
-<li>Lawsuits and court proceedings against you</li>
-<li>Wage garnishments</li>
-<li>Bank account levies</li>
-<li>Foreclosure proceedings</li>
-<li>Vehicle repossession</li>
-<li>Utility disconnections (for 20 days)</li>
-</ul>
-<p>Creditors who violate the <a href="https://automaticstay.org" rel="noopener" target="_blank" title="Automatic Stay in Bankruptcy - Open Bankruptcy Project">automatic stay</a> can be held in contempt and ordered to pay damages.</p>
-<p><strong>Exception:</strong> If you have had a prior <a href="https://dismissedbankruptcy.org/" title="dismissal">case dismissed</a> within the past year, the stay may be limited to 30 days or may not apply at all. <a href="https://1328f.com" title="Eligibility Screener">Check your eligibility</a> before filing.</p>
+<p><a href="https://bankruptcyexemptions.com" rel="noopener" target="_blank" title="Bankruptcy Exemptions - Open Bankruptcy Project">Bankruptcy exemptions</a> are laws that protect certain property from being taken to pay your creditors. In <a href="chapter-7.html">Chapter 7</a>, non-exempt property can be sold by the trustee. In <a href="chapter-13.html">Chapter 13</a>, the value of non-exempt property affects how much you must pay through your plan.</p>
+<p>Tennessee <a href="https://bankruptcyexemptionsbystate.com/" title="exemptions">exemptions</a> are among the lowest in the nation. The homestead exemption of $5,000 provides minimal protection for homeowners.</p>
+</div>
+</div></section>
+<section><div class="container">
+<h2>Tennessee Exemptions - Full List</h2>
+<div class="card">
+<h3>Homestead - $5,000/$7,500</h3>
+<p>Protects up to $5,000 (individual) / $7,500 (family) of equity in your primary residence. Equity is your home's value minus what you owe on the mortgage.</p>
+<p style="color:#8b949e;font-size:0.9rem">Tenn. Code Ann. 26-2-301</p>
+</div>
+<div class="card">
+<h3>Motor Vehicle - $10,000</h3>
+<p>Protects up to $10,000 (increased 2024) of equity in a motor vehicle.</p>
+<p style="color:#8b949e;font-size:0.9rem">Tenn. Code Ann. 26-2-103</p>
+</div>
+<div class="card">
+<h3>Personal Property - $10,000</h3>
+<p>$10,000 personal property aggregate</p>
+</div>
+<div class="card">
+<h3>Other Tennessee Exemptions</h3>
+<table>
+<tr><th>Property</th><th>Amount</th></tr>
+<tr><td>Retirement accounts (IRA/401k)</td><td>Fully exempt</td></tr>
+<tr><td>Social Security benefits</td><td>Fully exempt</td></tr>
+<tr><td>Unemployment benefits</td><td>Fully exempt</td></tr>
+<tr><td>Workers' compensation</td><td>Fully exempt</td></tr>
+<tr><td>Health aids</td><td>Fully exempt</td></tr>
+<tr><td>Public assistance benefits</td><td>Fully exempt</td></tr>
+</table>
 </div>
 </div></section>
 <section><div class="container">
 <h2>Frequently Asked Questions</h2>
-<details class="faq-item"><summary>What happens at the <a href="https://341meeting.org/" title="341 meeting">341 meeting</a>?</summary><div class="answer"><p>The <a href="https://341meeting.org" title="341 Meeting">341 meeting</a> is a brief hearing where the trustee asks questions under oath. Bring photo ID and Social Security proof. Most last 5-10 minutes.</p></div></details>
-<details class="faq-item"><summary>What is the <a href="https://automaticstay.org/" title="automatic stay">automatic stay</a>?</summary><div class="answer"><p>The <a href="https://automaticstay.org" title="Automatic Stay">automatic stay</a> stops all collection activity the moment you file. Violations can result in sanctions.</p></div></details>
-<details class="faq-item"><summary>How long until I get my discharge?</summary><div class="answer"><p><a href="https://whatischapter7.com/" title="Chapter 7">Chapter 7</a>: 3-4 months. <a href="https://chapter7vs13.org/" title="Chapter 13">Chapter 13</a>: after completing your 3-5 year plan.</p></div></details>
-<details class="faq-item"><summary>Will bankruptcy affect my credit score?</summary><div class="answer"><p><a href="https://whatischapter7.com/" title="Chapter 7">Chapter 7</a> stays on your report for 10 years; Chapter 13 for 7 years. Many filers see recovery within 1-2 years. <a href="https://bankruptcyfreshstart.org" title="Fresh Start">Rebuilding after bankruptcy</a>.</p></div></details>
+<details class="faq-item"><summary>What is the Tennessee homestead exemption?</summary><div class="answer"><p>Tennessee's homestead exemption protects $5,000 (individual) / $7,500 (family) of equity in your primary residence.</p></div></details>
+<details class="faq-item"><summary>How much vehicle equity can I protect?</summary><div class="answer"><p>Tennessee's vehicle exemption is $10,000 (increased 2024). You can supplement this with other available exemptions.</p></div></details>
+<details class="faq-item"><summary>Are retirement accounts protected?</summary><div class="answer"><p>Yes. ERISA-qualified retirement accounts (401k, pension) are generally fully exempt in bankruptcy. IRAs are protected up to federal limits.</p></div></details>
 </div></section>
 <div class="container">
-<div style="text-align:center;padding:40px 0">
-<h2>Check Your Eligibility</h2>
-<p>Use the free <a href="https://1328f.com/" title="Section 1328(f)">1328(f)</a> screener to check whether a prior discharge affects your eligibility.</p>
-<a class="cta" href="https://1328f.com">Free Discharge Screener</a>
-</div>
 <div class="network">
 <h3>Open Bankruptcy Project Network</h3>
 <div class="network-links">
